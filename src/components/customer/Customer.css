@@ -1,0 +1,19 @@
+.customers {   
+    background-color: white;
+}
+
+.customer {
+    flex-basis: 28%;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid goldenrod;
+}
+
+.title--customer {
+    padding: 1em;
+
+}
+
+.customerList {
+    display: block;
+}
